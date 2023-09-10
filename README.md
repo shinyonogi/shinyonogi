@@ -1,5 +1,5 @@
 <h3 align="center">Mastering the art of 'minimal effort, maximum output 😎</h3>
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
+<img align="right" alt="Coding" width="150" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shinyonogi" alt="shinyonogi" /></a> </p>
 
