@@ -1,4 +1,3 @@
-<img src="https://i.postimg.cc/Dz1Mg6t0/pexels-ce-line-7465580.jpg">
 <h3 align="center">Mastering the art of 'minimal effort, maximum output 😎</h3>
 <img align="right" alt="Coding" width="150" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
 
