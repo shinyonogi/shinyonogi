@@ -1,6 +1,5 @@
-<h1 align="center">Hola, I'm Shiny 🎶</h1>
-<h3 align="center">Currently mastering the art of 'minimal effort, maximum output 😎</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif”>
+<h3 align="center">Mastering the art of 'minimal effort, maximum output 😎</h3>
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shinyonogi" alt="shinyonogi" /></a> </p>
 
