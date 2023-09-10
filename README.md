@@ -1,4 +1,4 @@
-<h3 align="center">Mastering the art of 'minimal effort, maximum output 😎</h3>
+<h3 align="center">Mastering the art of 'minimal effort, maximum output' 😎</h3>
 <img align="right" alt="Coding" width="150" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
 
 - 🤓 I’m currently learning... **A lil bit of everything. Cuz I'm new to this, you know.**
